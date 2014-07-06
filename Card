@@ -1,0 +1,10 @@
+/* PROBLEM: Design the data structures for a generic deck
+of cards. Explain how you would subclass it to implement
+particular card games. */
+
+public class Card {
+	private int card;
+	private int suit;
+	// 1 = hearts, 2 = diamonds, 3 = spades, 4 = clubs
+	
+}
